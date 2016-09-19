@@ -1,0 +1,4 @@
+.gitignore
+*.swp
+pelican-plugins
+pelican-themes
