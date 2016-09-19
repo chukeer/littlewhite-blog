@@ -1,0 +1,4 @@
+## install plugins and themes
+git clone https://github.com/talha131/pelican-elegant.git third_themes/pelican-elegant
+git clone https://github.com/getpelican/pelican-plugins.git pelican-plugins
+git clone https://github.com/getpelican/pelican-themes.git pelican-themes
