@@ -1,4 +1,7 @@
 .gitignore
+*.pyc
 *.swp
+content
+output
 pelican-plugins
 pelican-themes
