@@ -5,3 +5,4 @@ content
 output
 pelican-plugins
 pelican-themes
+*.DS_Store
