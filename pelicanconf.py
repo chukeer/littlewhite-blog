@@ -14,8 +14,8 @@ DATE_FORMATS = {'zh': '%Y-%m-%d'}
 DEFAULT_LANG = u'zh'
 
 PLUGIN_PATHS = ['pelican-plugins']
-#PLUGINS = ['render_math', 'sitemap', 'extract_toc', 'tipue_search', 'neighbors']
-PLUGINS = ['render_math', 'sitemap', 'tipue_search', 'neighbors']
+PLUGINS = ['render_math', 'sitemap', 'extract_toc', 'tipue_search', 'neighbors']
+#PLUGINS = ['render_math', 'sitemap', 'tipue_search', 'neighbors']
 THEME = 'third_themes/pelican-elegant'
 
 # Elegant theme
